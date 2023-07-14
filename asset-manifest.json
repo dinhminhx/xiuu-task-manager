@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/xiuu-task-manager/static/css/main.ea492b32.css",
-    "main.js": "/xiuu-task-manager/static/js/main.c5c0ea0b.js",
+    "main.js": "/xiuu-task-manager/static/js/main.99e501a4.js",
     "static/media/bg.jpg": "/xiuu-task-manager/static/media/bg.34170e650a37c530dabe.jpg",
     "static/media/background.jpg": "/xiuu-task-manager/static/media/background.635b41ae2b00d570280f.jpg",
     "static/media/today_event.png": "/xiuu-task-manager/static/media/today_event.c1865fb2e70c6fa6b521.png",
@@ -11,10 +11,10 @@
     "static/media/dropdown.svg": "/xiuu-task-manager/static/media/dropdown.43f819334815cbfb337b87ef848d5e6b.svg",
     "static/media/filter.svg": "/xiuu-task-manager/static/media/filter.35f8c9508eae05dfd922b273f80ce372.svg",
     "main.ea492b32.css.map": "/xiuu-task-manager/static/css/main.ea492b32.css.map",
-    "main.c5c0ea0b.js.map": "/xiuu-task-manager/static/js/main.c5c0ea0b.js.map"
+    "main.99e501a4.js.map": "/xiuu-task-manager/static/js/main.99e501a4.js.map"
   },
   "entrypoints": [
     "static/css/main.ea492b32.css",
-    "static/js/main.c5c0ea0b.js"
+    "static/js/main.99e501a4.js"
   ]
 }
