@@ -15,7 +15,7 @@ const App = (props) => {
     <div className={classes.app}>
       <ContextWrapper>
         <Routes>
-          <Route path="/" element={<Dashboard />} />
+          <Route path="/xiuu-task-manager" element={<Dashboard />} />
           <Route path="/register" element={<Register />} />
           <Route path="/login" element={<Login />} />
           <Route path="/profile" element={<Profile />} />
